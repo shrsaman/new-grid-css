@@ -1,7 +1,4 @@
-/* * {
-  box-sizing: border-box;
-  border: 1px solid black;
-} */
+
 
 .container {
     display: grid;
@@ -66,7 +63,7 @@
     box-shadow: 10px 10px 8px lightgrey ;
   }
   
-  .left-top1-bottom2 {
+  .box-1-purpule{
   background-color: hsl(263, 55%, 52%);
   background-image: url('./assets/bg-pattern-quotation.svg');
   background-repeat: no-repeat;
